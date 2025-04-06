@@ -1,7 +1,10 @@
 # Casino_Gaming_EDA
 Data Analysis | 🚀 Casino Gaming Exploratory Data Analysis
+
 Introduction
--This project dives into the world of social media data analytics using trends & Engagement Analysis. The programming language used is Python on Jupiter notebook. Various libraries will be used for data visualization, managing data throughout the process. Analyzing trending hashtags, engagement, and platform-specific content performance.
+
+-This project dives into the world of This presentation explores an Exploratory Data Analysis (EDA) of Casino gaming. The dataset contains detailed monthly reports from different online casino gaming licenses. This analysis aims to understand the key metrics influencing business and providing insights for Casino gaming  and make data-driven recommendations. 
+
 
 About Dataset • 📌 Notes: (1) Monthly payments are due to the State by the 15th of the following month. (2) The operation of the online casino gaming began on October 12, 2021. (3) This amount shall only include coupons and credits issued for use for gaming in the state and redeemed in the State of Connecticut. (4) Per Public Act 21-23, from October 2021 – September 2022 the promotional deduction is limited to the lesser of 25% of online casino gaming Win/Loss, or actual promotional coupons or credits wagered. From October 2022 – September 2023 this limit drops to 20%, and to 15% thereafter. (5) Payment rate is 18% of Gross Gaming Revenue until September 2026; 20% for all subsequent periods. Monthly payment is the greater of the calculated payment or $0 (if calculated payment is negative). (6) MPTN began on-reservation online casino gaming on December 7, 2021, the Mohegan Tribe began on-reservation online casino gaming on May 6, 2022. (7) In July 2024, Mohegan Digital, LLC's online gaming operator identified and reported data latency issues that caused errors in the May 2024 payment calculations submitted to the State of Connecticut. Mohegan Digital, LLC amended their May 2024 return, which resulted in a decrease of $679 in both Wagers and Win/(loss) and a decrease of $104 in Payment. Amended figures are shown above.
 
