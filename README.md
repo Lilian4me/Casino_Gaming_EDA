@@ -30,46 +30,30 @@ Columns in the Dataset:
 
 🔹Objective
 The goal of this assignment is to:
-1.
-Analyze trends in online casino gaming revenue across different licenses and periods.
-2.
-Identify key performance metrics, such as net winnings, promotional deductions, and gross revenue.
-3.
-Discover correlations between variables, such as promotional activity and total revenue.
-4.
-Handle missing values and outliers to ensure a robust analysis.
-5.
-Provide data-driven insights and recommendations to casino operators.
+
+1. Analyze trends in online casino gaming revenue across different licenses and periods.
+2. Identify key performance metrics, such as net winnings, promotional deductions, and gross revenue.
+3. Discover correlations between variables, such as promotional activity and total revenue.
+4. Handle missing values and outliers to ensure a robust analysis.
+5. Provide data-driven insights and recommendations to casino operators.
 
 Technology Used The code is tested against Python 3.13 and Jupyter Notebook
 
 
 **Problem Statement: ** 
 
-1.
-Revenue Trends Analysis:
-o
-How has the total gaming revenue changed over time?
-o
-Are there seasonal trends in casino revenue?
-2.
-Impact of Promotions:
-o
-Do promotional credits and deductions lead to higher overall revenue?
-o
-Is there a correlation between promotional spending and net winnings?
-3.
-Casino Performance Comparison:
-o
-Which casino licenses generate the highest revenue?
-o
-Are there specific casinos consistently underperforming?
-4.
-Wagering and Payout Patterns:
-o
-How do cancelled wagers impact revenue?
-o
-What percentage of wagers is typically returned as winnings?
+1. Revenue Trends Analysis:
+  o How has the total gaming revenue changed over time?
+  o Are there seasonal trends in casino revenue?
+2. Impact of Promotions:
+  o Do promotional credits and deductions lead to higher overall revenue?
+  o Is there a correlation between promotional spending and net winnings?
+3. Casino Performance Comparison:
+  o Which casino licenses generate the highest revenue?
+  o Are there specific casinos consistently underperforming?
+4. Wagering and Payout Patterns:
+  o How do cancelled wagers impact revenue?
+  o What percentage of wagers is typically returned as winnings?
 
 
 
