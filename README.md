@@ -10,7 +10,7 @@ About Dataset • 📌 Notes: (1) Monthly payments are due to the State by the 1
 
 Original Data Source -https://www.kaggle.com/datasets/willianoliveiragibin/casino-gaming-data
 
-File Description Casino_Gaming_Data new.csv This file contains information that the dataset has 11 columns and each columns has 143 values. There is no Null values in the dataset.
+File Description Casino_Gaming_Data new.csv. This file contains information that the dataset has 11 columns and each columns has 143 values. There is no Null values in the dataset.
 
 • 🏷️ Column Descriptions
 
@@ -41,10 +41,11 @@ Handle missing values and outliers to ensure a robust analysis.
 5.
 Provide data-driven insights and recommendations to casino operators.
 
-Technology Used The code is tested against Python .4, 3.5, 3.6 and 3.7.
+Technology Used The code is tested against Python 3.13 and Jupyter Notebook
+
 
 **Problem Statement: ** 
-Problem Statements
+
 1.
 Revenue Trends Analysis:
 o
@@ -71,5 +72,5 @@ o
 What percentage of wagers is typically returned as winnings?
 
 
-Jupyter Notebook
+
 
